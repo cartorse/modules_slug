@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>modules_slug</name>
+  <displayName><![CDATA[Module Folder Name]]></displayName>
+  <version><![CDATA[1.0.0]]></version>
+  <description><![CDATA[Muestra el nombre de la carpeta (nombre técnico) de cada módulo en el listado de módulos.]]></description>
+  <author><![CDATA[cartorse]]></author>
+  <tab><![CDATA[administration]]></tab>
+  <is_configurable>0</is_configurable>
+  <need_instance>0</need_instance>
+</module>
